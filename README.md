@@ -4,16 +4,16 @@ This is a simple Django app that returns a Hello World message as JSON.
 
 ## How to Run/Start the Web App:
 
-1. Install Django:  
-  pip install django
+1. Install Django:
+# pip install django
 
-2. Clone the repository:
+3. Clone the repository:
 
-3. Navigate to the project directory:
+4. Navigate to the project directory:
 
-4. Run the Django development server:
+5. Run the Django development server:
 
-5. Access the Hello World JSON response in a browser:
+6. Access the Hello World JSON response in a browser:
 Open a web browser and navigate to http://127.0.0.1:8000/
 
 ## Accessing the Hello World JSON Response:
