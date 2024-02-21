@@ -4,10 +4,10 @@ This is a simple Django app that returns a Hello World message as JSON.
 
 ## How to Run/Start the Web App:
 
-1. Install Django if you haven't already:
+1. Install Django:  
+  pip install django
 
 2. Clone the repository:
-
 
 3. Navigate to the project directory:
 
