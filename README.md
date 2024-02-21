@@ -5,7 +5,7 @@ This is a simple Django app that returns a Hello World message as JSON.
 ## How to Run/Start the Web App:
 
 1. Install Django:
-# pip install django
+ pip install django
 
 3. Clone the repository:
 
